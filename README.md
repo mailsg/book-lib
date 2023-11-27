@@ -120,6 +120,12 @@ Below are the Endpoints to perform CRUD operations:
       ```
 - **DELETE** `http://localhost:3000/books/:id` - Delete a book by id
 
+To test the project, execute the following command:
+
+```sh
+  npm test
+```
+
 <!-- AUTHORS -->
 
 👤 **Sandeep Ghosh**
