@@ -60,6 +60,8 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+You must have `NodeJS` installed in the local machine and a `MongoDB/Atlas` account created with a `mongodb+srv` connection string .
+
 ### Setup
 
 Clone this repository to your desired folder:
