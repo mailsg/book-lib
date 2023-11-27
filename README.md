@@ -89,7 +89,7 @@ Install this project by executing the following commands. Since its an Open API,
 
 ### Usage
 
-To run the project, execute the following command:
+- To run the project, execute the following command:
 
 ```sh
   npm start
@@ -120,7 +120,7 @@ Below are the Endpoints to perform CRUD operations:
       ```
 - **DELETE** `http://localhost:3000/books/:id` - Delete a book by id
 
-To test the project, execute the following command:
+- To test the project, execute the following command:
 
 ```sh
   npm test
